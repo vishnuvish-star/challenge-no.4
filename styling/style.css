@@ -1,0 +1,26 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  width: 23rem;
+  height: auto;
+  background-color: #e9edc9;
+  margin: 0 auto;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+#btn {
+  padding: 1rem;
+  border-radius: 10px;
+  background-color: #d4a373;
+  border-color: #d4a373;
+  cursor: pointer;
+}
+.txt-btn {
+  padding: 0 1rem;
+}
